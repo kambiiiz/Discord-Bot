@@ -1,7 +1,5 @@
 # Discord Bot
-
 Multi-purpose Discord bot with moderation, music, and more.
-
 ## Features
 - Music playback
 - Moderation tools
@@ -13,6 +11,5 @@ Multi-purpose Discord bot with moderation, music, and more.
 - Discord.js
 - MongoDB
 - Redis
-
 ## License
 MIT
