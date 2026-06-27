@@ -1,7 +1,7 @@
 # Discord Bot
 Multi-purpose Discord bot with moderation, music, and more.
 ## Features
-- Music playback
+- playback
 - Moderation tools
 - Level system
 - Custom commands
