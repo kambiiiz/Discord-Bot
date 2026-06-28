@@ -8,7 +8,7 @@ Multi-purpose Discord bot with moderation, music, and more.
 -  system
 ## Tech Stack
 - Node.js
-- Discord.js
+- .js
 - MongoDB
 - Redis
 ## License
